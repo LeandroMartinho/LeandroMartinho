@@ -7,29 +7,65 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMartinho&layout=compact&hide_border=true&title_color=DC143C&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeandroMartinho&bg_color=000000&color=601890&line=9b0322&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
  
-<div style="display: inline_block"><br>
-  <img align="center" title="Android Studio"alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" title="Kotlin"alt="Math-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" title="Java"alt="Math-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+
   
           
           
   
-           
-          
-  </div>
 
-  <div align="center">  
-<a href="https://https://www.instagram.com/leandro_hanma0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.leandromartinho1337@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leandro-martinho-55442a382" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="center">
 
 
 
+</div>
+
+
+<p align="center">
+  🎓 Software Engineering Student |
+  ☁️ Cloud Computing |
+  🐧 Linux |
+  ⚙️ DevOps
+</p>
+
+---
+
+
+
+ ## 🛠️ Tecnologias/Ferramentas
+
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS"/>
+</div>
+
+---
+
+## 🌐 Conexões
+
+<div align="center">
+  <a href="https://www.instagram.com/leandro_hanma0/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-martinho-55442a382" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cmp.1a.leandromartinho1337@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 
 
