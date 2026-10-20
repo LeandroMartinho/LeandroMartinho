@@ -69,6 +69,10 @@
 
 
 
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/d4/aa/20/d4aa2073fe6345ef4bc47350e9e94358.jpg" width="200" alt="Foto de perfil">
+</div>
+
             
             
           
